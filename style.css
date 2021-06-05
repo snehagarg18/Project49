@@ -1,0 +1,12 @@
+ h1 {
+    color: palevioletred;
+}
+ head{
+     background-color: bisque ;
+ }
+ .Body{
+     background-color: bisque;
+     flex-wrap: wrap;
+     justify-content: center;
+ }
+ 
